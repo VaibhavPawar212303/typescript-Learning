@@ -1,0 +1,113 @@
+[
+    {
+        "taskTitle": "Learning typescript ",
+        "taskdec": "understanding the core of typescript ",
+        "taskPriority": "High",
+        "taskTime": 4,
+        "taskStatus": "In Progress",
+        "dueDate": "16-02-25",
+        "assignedTo": "vaibhav pawar ",
+        "tags": [
+            "Programming",
+            "typescript"
+        ],
+        "createdAt": "2025-02-16T07:00:33.122Z",
+        "updatedAt": "2025-02-16T09:33:05.232Z",
+        "isRecurring": false,
+        "attachments": [
+            "https://example.com/doc.pdf"
+        ]
+    },
+    {
+        "taskTitle": "learning cypress with typescript ",
+        "taskdec": "understanding the core of cypress with typescript ",
+        "taskPriority": "High",
+        "taskTime": "4",
+        "taskStatus": "In Progress",
+        "dueDate": "16-02-25",
+        "assignedTo": "vaibhav pawar ",
+        "tags": [
+            "Programming",
+            "typescript"
+        ],
+        "createdAt": "2025-02-16T07:02:27.292Z",
+        "updatedAt": "2025-02-16T07:02:27.292Z",
+        "isRecurring": false,
+        "attachments": [
+            "https://example.com/doc.pdf"
+        ]
+    },
+    {
+        "taskTitle": "Learn typescript languages ",
+        "taskdec": "Understanding the typescript language core ",
+        "taskPriority": "High",
+        "taskTime": 4,
+        "taskStatus": "In Progress",
+        "dueDate": "16-02-25",
+        "assignedTo": "Vaibhav pawar ",
+        "steps": [
+            "Learn about basics of typescript",
+            "understand the basics of class ",
+            "learn about the interface "
+        ],
+        "tags": [
+            "Programming",
+            "typescript"
+        ],
+        "createdAt": "2025-02-16T09:52:45.280Z",
+        "updatedAt": "2025-02-16T09:53:15.851Z",
+        "isRecurring": false,
+        "attachments": [
+            "https://example.com/doc.pdf"
+        ]
+    },
+    {
+        "id": "7bcc8496-2945-49e1-aee5-0739181ceadc",
+        "taskTitle": "Cypress with typescript learning ",
+        "taskdec": "Learning the cypress with typescript ",
+        "taskPriority": "High",
+        "taskTime": "5",
+        "taskStatus": "In Progress",
+        "dueDate": "16-02-25",
+        "assignedTo": "Vaibhav Pawar ",
+        "steps": [
+            "basics of cypress",
+            "core of cypress automation",
+            "read the cypress doc "
+        ],
+        "tags": [
+            "Programming",
+            "typescript"
+        ],
+        "createdAt": "2025-02-16T09:59:20.297Z",
+        "updatedAt": "2025-02-16T09:59:20.297Z",
+        "isRecurring": false,
+        "attachments": [
+            "https://example.com/doc.pdf"
+        ]
+    },
+    {
+        "id": "62ca59b4-3087-468e-872f-ddb0e47436b5",
+        "taskTitle": "Java code learning ",
+        "taskdec": "learning basics of java ",
+        "taskPriority": "High",
+        "taskTime": 4,
+        "taskStatus": "In Progress",
+        "dueDate": "20-02-25",
+        "assignedTo": "Vaibhav Pawar",
+        "steps": [
+            "Java class obj learning ",
+            "inheritance learning "
+        ],
+        "tags": [
+            "Programming",
+            "typescript"
+        ],
+        "createdAt": "2025-02-17T10:10:57.894Z",
+        "updatedAt": "2025-02-17T10:13:07.190Z",
+        "isRecurring": false,
+        "attachments": [
+            "https://example.com/doc.pdf"
+        ]
+    }
+]
